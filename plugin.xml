@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-ml-kit" version="2.0.1">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-ml-kit" version="1.0.0">
     <name>Cordova Plugin ML Kit</name>
     <description></description>
     <license>MIT</license>
     <keywords></keywords>
 
-    <dependency id="cordova-plugin-firebase" version="^2.0.5" />
+    <dependency id="cordova-plugin-firebasex" version="^6.1.0" />
 
     <!-- android -->
     <platform name="android">
